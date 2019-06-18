@@ -1,0 +1,39 @@
+D:\Work\Projects\FileManager\FileManager\bin\Debug\FileManager.exe.config
+D:\Work\Projects\FileManager\FileManager\bin\Debug\FileManager.exe
+D:\Work\Projects\FileManager\FileManager\bin\Debug\FileManager.pdb
+D:\Work\Projects\FileManager\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+D:\Work\Projects\FileManager\FileManager\obj\Debug\FileManager.Form1.resources
+D:\Work\Projects\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+D:\Work\Projects\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.Cache
+D:\Work\Projects\FileManager\FileManager\obj\Debug\FileManager.exe
+D:\Work\Projects\FileManager\FileManager\obj\Debug\FileManager.pdb
+D:\Work\Projects\FileManager\FileManager\obj\Debug\FileManager.CreateDirectory.resources
+D:\Work\Projects\FileManager\FileManager\obj\Debug\FileManager.RenameDir.resources
+D:\Work\Projects\FileManager\FileManager\obj\Debug\FileManager.Print.resources
+C:\Users\Sanya Karpenko\Desktop\FileManager\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\Sanya Karpenko\Desktop\FileManager\FileManager\obj\Debug\FileManager.exe
+C:\Users\Sanya Karpenko\Desktop\FileManager\FileManager\obj\Debug\FileManager.pdb
+C:\Users\Sanya Karpenko\Desktop\FileManager\FileManager\bin\Debug\FileManager.exe
+C:\Users\Sanya Karpenko\Desktop\FileManager\FileManager\bin\Debug\FileManager.pdb
+C:\Users\Sanya Karpenko\Desktop\FileManager\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+C:\Users\Sanya Karpenko\Desktop\FileManager\FileManager\obj\Debug\FileManager.CreateDirectory.resources
+C:\Users\Sanya Karpenko\Desktop\FileManager\FileManager\obj\Debug\FileManager.Form1.resources
+C:\Users\Sanya Karpenko\Desktop\FileManager\FileManager\obj\Debug\FileManager.Form2.resources
+C:\Users\Sanya Karpenko\Desktop\FileManager\FileManager\obj\Debug\FileManager.Print.resources
+C:\Users\Sanya Karpenko\Desktop\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+C:\Users\Sanya Karpenko\Desktop\FileManager\FileManager\obj\Debug\FileManager.RenameDir.resources
+C:\Users\Sanya Karpenko\Desktop\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.Cache
+C:\Users\Natali\Downloads\FileManager\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\Natali\Downloads\FileManager\FileManager\bin\Debug\FileManager.exe
+C:\Users\Natali\Downloads\FileManager\FileManager\bin\Debug\FileManager.pdb
+C:\Users\Natali\Downloads\FileManager\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+C:\Users\Natali\Downloads\FileManager\FileManager\obj\Debug\FileManager.CreateDirectory.resources
+C:\Users\Natali\Downloads\FileManager\FileManager\obj\Debug\FileManager.Form1.resources
+C:\Users\Natali\Downloads\FileManager\FileManager\obj\Debug\FileManager.Form2.resources
+C:\Users\Natali\Downloads\FileManager\FileManager\obj\Debug\FileManager.Print.resources
+C:\Users\Natali\Downloads\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+C:\Users\Natali\Downloads\FileManager\FileManager\obj\Debug\FileManager.RenameDir.resources
+C:\Users\Natali\Downloads\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.cache
+C:\Users\Natali\Downloads\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\Natali\Downloads\FileManager\FileManager\obj\Debug\FileManager.exe
+C:\Users\Natali\Downloads\FileManager\FileManager\obj\Debug\FileManager.pdb
